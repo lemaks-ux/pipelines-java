@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/lem6wz/test_project/_apis/build/status/lemaks-ux.pipelines-java?branchName=main)](https://dev.azure.com/lem6wz/test_project/_build/latest?definitionId=1&branchName=main)
 
 # Contributing
 
