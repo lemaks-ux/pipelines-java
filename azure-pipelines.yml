@@ -5,10 +5,10 @@
 
 trigger:
 - main
-- releases/*
+- releases
 
 pool:
-  vmImage: windows-latest
+  vmImage: macos-latest
 
 steps:
 - task: Maven@3
